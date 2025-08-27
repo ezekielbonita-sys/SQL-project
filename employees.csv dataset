@@ -1,0 +1,15 @@
+Csv
+
+employee_id, first_name, last_name, department, job_title, salary, hire_date
+1, Bonita, Ezekiel, Sales, Sales Executive, 50000,2022-01-15
+2, David, Okoro, IT, Software Engineer, 75000, 2021-06-20
+3, Aisha, Mohammed, HR, HR Manager, 65000, 2020-03-10
+4, Chidi, Emeka, Finance, Accountant, 55000, 2019-11-05
+5, Sade, Ajayi, Marketing, Marketing Specialist, 60000, 2021-09-17
+6, Tunde, Adesina, IT, System Administrator, 70000. 2022-02-28
+7, Grace, Chukwu, Sales, Sales Associate, 48000, 2020-08-12
+8, Femi, Oluwole, Finance, Financial Analyst, 72000, 2019-05-23
+9, Linda, Obi, HR, Recruiter, 52000, 2021-12-01
+10, Emmanuel, Bello, Marketing, Marketing Manager, 68000, 2020-04-18
+11, Chinwe, Onyeka, IT, Data Analyst, 73000, 2022-03-10
+12, Kemi, Abiola, Sales, Sales Manager, 80000, 2018-07-30
